@@ -183,7 +183,7 @@ button:hover{
 	align-items: center;
 	min-height: 400px;
 }
-#card1,#card2,#card3{
+#card1,#card2,#card3,#card4,#card5,#card6{
 	height: 410px;
 	width: 335px;
 	padding: 20px 35px;
@@ -308,7 +308,7 @@ footer p:nth-child(2){
 	bottom: 35px;
 	font-size: 14px; 
 }
-#img1,#img2,#img3{
+#img1,#img2,#img3,#img5,#img6,#img7{
 	display: none;
 	height: 100%;
 	width: 100%;
@@ -335,4 +335,11 @@ footer p:nth-child(2){
 }
 ul a{
 	margin-left: 5%;
+}
+#proj{
+	padding-bottom: 1%;
+}
+#kll{
+	font-size: 25px;
+	color:#fcfc;
 }
